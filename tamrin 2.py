@@ -15,3 +15,5 @@ elif avg >= 12:
     print("passed")
 else:
     print("conditional")      
+
+    
